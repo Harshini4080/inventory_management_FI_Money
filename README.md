@@ -46,7 +46,7 @@ This project was built as part of the **FI Money Backend Intern assignment**. It
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/inventory-backend.git
+git clone https://github.com/Harshini4080/inventory-backend-FI-Money.git
 cd inventory-backend
 ```
 
