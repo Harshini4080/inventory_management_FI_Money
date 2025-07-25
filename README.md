@@ -110,7 +110,7 @@ You can view all endpoints, try requests, and see expected inputs and responses.
 
 A ready-to-import Postman collection is included in this repository:
 
-[`Inventory_API.postman_collection.json`](./Inventory_API.postman_collection.json)
+ [`Inventory_API.postman_collection.json`](./Inventory_API.postman_collection.json)]
 
 You can import this collection into Postman and start testing the API endpoints directly.
 
