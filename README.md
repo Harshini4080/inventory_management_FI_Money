@@ -24,6 +24,8 @@ This project was built as part of the **FI Money Backend Intern assignment**. It
 - ✅ Swagger API docs at `/api-docs`
 
 ---
+## Screenshots
+
 ### FRONTEND
 
 ###  Login Page
@@ -40,7 +42,8 @@ This project was built as part of the **FI Money Backend Intern assignment**. It
 
 
 ### BACKEND
-(<img width="1190" height="711" alt="Screenshot 2025-07-25 222213" src="https://github.com/user-attachments/assets/1119a0f9-ca42-4645-881e-5c44010e02de" />
+(<img width="604" height="442" alt="Screenshot 2025-07-25 222213" src="https://github.com/user-attachments/assets/28bc0de1-b724-4b69-9e8e-72fb4c4b2d9d" />
+
 )
 
 
@@ -105,7 +108,7 @@ Authorization: Bearer <your_token>
 
 ---
 
-## 🔗 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint                           | Description                    | Auth |
 |--------|------------------------------------|--------------------------------|------|
