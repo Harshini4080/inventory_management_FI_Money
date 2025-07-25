@@ -106,7 +106,7 @@ You can view all endpoints, try requests, and see expected inputs and responses.
 
 ---
 
-## 🧪 Testing with Postman
+## Testing with Postman
 
 A ready-to-import Postman collection is included in this repository:
 
