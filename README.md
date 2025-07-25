@@ -26,16 +26,16 @@ This project was built as part of the **FI Money Backend Intern assignment**. It
 ---
 ### FRONTEND
 
-### 🧾 Login Page
-![Login](<img width="1895" height="759" alt="Screenshot 2025-07-25 221851" src="https://github.com/user-attachments/assets/d0a4233f-4e4a-4035-8a87-4f3e83e91ed0" />
+###  Login Page
+(<img width="1895" height="759" alt="Screenshot 2025-07-25 221851" src="https://github.com/user-attachments/assets/d0a4233f-4e4a-4035-8a87-4f3e83e91ed0" />
 )
 
-### ➕ Add Product
-![Add Product](<img width="1885" height="785" alt="Screenshot 2025-07-25 221859" src="https://github.com/user-attachments/assets/9bcc3e25-5a39-4a61-a892-332535886cfc" />
+###  Add Product
+(<img width="1885" height="785" alt="Screenshot 2025-07-25 221859" src="https://github.com/user-attachments/assets/9bcc3e25-5a39-4a61-a892-332535886cfc" />
 )
 
-### 📦 Product List
-![Product List](<img width="1885" height="674" alt="Screenshot 2025-07-25 221910" src="https://github.com/user-attachments/assets/5703b8df-01da-4a47-8577-d61f1ec2ccf1" />
+###  Product List
+(<img width="1885" height="674" alt="Screenshot 2025-07-25 221910" src="https://github.com/user-attachments/assets/5703b8df-01da-4a47-8577-d61f1ec2ccf1" />
 )
 
 
