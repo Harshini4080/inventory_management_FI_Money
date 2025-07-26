@@ -140,6 +140,11 @@ You can import this collection into Postman and start testing the API endpoints 
 
 ---
 
+## AI Usage Disclosure
+I used AI tools to help build the frontend components, and improve the UI flow. All decisions, logic, and structure were reviewed and customized by me to reflect my understanding.
+
+
+
 
 
 
