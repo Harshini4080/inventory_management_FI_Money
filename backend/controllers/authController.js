@@ -19,7 +19,6 @@ const loginUser = async (req, res) => {
   }
 };
 
-// (Optional) Register API used in test script
 const registerUser = async (req, res) => {
   const { username, password } = req.body;
   try {
