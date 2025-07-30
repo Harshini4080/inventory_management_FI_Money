@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import axios from '../axiosConfig'; // use central axios with token
+import axios from '../api/axiosInstance';
 import { toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 function ProductList() {
   const [products, setProducts] = useState([]);
@@ -11,9 +12,9 @@ function ProductList() {
       try {
         const res = await axios.get('/api/products');
         setProducts(res.data.products);
-        setLoading(false);
       } catch (err) {
-        toast.error(err.response?.data?.message || 'Error loading products');
+        toast.error(err.response?.data?.message || '❌ Error loading products');
+      } finally {
         setLoading(false);
       }
     };
@@ -22,9 +23,11 @@ function ProductList() {
 
   return (
     <div className="form-container">
-      <h2>All Products</h2>
+      <h2>📦 All Products</h2>
       {loading ? (
         <p>Loading...</p>
+      ) : products.length === 0 ? (
+        <p>No products found.</p>
       ) : (
         <table style={tableStyle}>
           <thead>
@@ -37,7 +40,7 @@ function ProductList() {
             </tr>
           </thead>
           <tbody>
-            {products.map(p => (
+            {products.map((p) => (
               <tr key={p._id}>
                 <td>{p.name}</td>
                 <td>{p.sku}</td>
