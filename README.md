@@ -35,6 +35,7 @@ This project was built as part of the **FI Money Backend Intern assignment**. It
 ├── swagger/ # Swagger config
 ├── .env # Environment variables (not committed)
 ├── .gitignore
+├── Dockerfile
 ├── server.js # Entry point
 └── README.md
 
